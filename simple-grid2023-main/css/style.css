@@ -36,10 +36,10 @@ h1, h2{
 	width: 800px;
 	margin: auto;
 	display: grid;
-	grid-template-columns: 200px 200px 200px;
+	grid-template-columns: 150px 150px 150px;
 	grid-gap: 10px;
 	background-color: #91f321;
-	background-image:url("../images/background.jpg");
+	background-image: url("../images/background.jpg");
 	border: 3px solid black;
 	border-radius: 20px;
 	jsutify-contents: space-around;
