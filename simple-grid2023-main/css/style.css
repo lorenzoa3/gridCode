@@ -59,7 +59,7 @@ h1, h2{
 
 .grid div {
 	border: 5px solid white;
-	background-color: rgba{231, 157, 224, 0.5};
+	background-color: rgba(231, 157, 224, 0.5);
 	text-align: center;
 	padding: 20px;
 	font-size: 30px;
