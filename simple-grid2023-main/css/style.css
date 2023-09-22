@@ -42,7 +42,7 @@ h1, h2{
 	background-image: url("../images/background.jpg");
 	border: 3px solid black;
 	border-radius: 20px;
-	justify-contents: space-around;
+	justify-content: space-around;
 }
 
 /******  Style the divs inside of the grid ******/
