@@ -1,5 +1,9 @@
 /****** Let's style our h1 & h2 headings *******/
-
+h1, h2{
+	text-align: center;
+	margin: 10px;
+	font-size:200%;
+}
 
 /* 1. Make the text centered */
 
