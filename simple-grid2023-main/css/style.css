@@ -79,16 +79,7 @@ h1, h2{
 .item3{
 	grid-column-start: 2;
 }
-.item4{
-	grid-column-start: 1;
-}
-.item_a{
-	grid-column-start: 3;
-	grid-row-start: 3;
-}
-.item_b{
-	grid-column-start: 3;
-}
+
 	
 
 /* Now try and style the individual boxes using grid-column  to match the picture at 1200px.*/
